@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+<keyboard-configuration>
+<number>
+ 0
+</number>
+<left>
+1073741904
+</left>
+<right>
+ 1073741903
+</right>
+<up>
+1073741906
+</up>
+<down>
+ 1073741905
+</down>
+</keyboard-configuration>
+<joystick-configuration>
+<number>
+ 0
+</number>
+<left>
+ 2
+</left>
+<right>
+ 3
+</right>
+<up>
+ 0
+</up>
+<down>
+ 1
+</down>
+<buttonA>
+ 10
+</buttonA>
+<buttonB>
+ 11
+</buttonB>
+<buttonC>
+ 12
+</buttonC>
+<buttonX>
+ 13
+</buttonX>
+</joystick-configuration>
+<mouse-configuration>
+</mouse-configuration>
+<sdl-configuration>
+<number-of-windows>
+ 1
+</number-of-windows>
+<init-video>
+ 1
+</init-video>
+<init-network>
+ 1
+</init-network>
+<init-textsupport>
+ 1
+</init-textsupport>
+<init-fastevents>
+ 1
+</init-fastevents>
+<init-audio>
+ 1
+</init-audio>
+<init-ttf>
+ 1
+</init-ttf>
+<init-framerate>
+ 1
+</init-framerate>
+<init-window>
+ 1
+</init-window>
+<init-timer>
+ 1
+</init-timer>
+<init-joystick>
+ 1
+</init-joystick>
+</sdl-configuration>
+<language>
+ english
+</language>
+<menuversion>
+ 2
+</menuversion>
+<sound>
+ 80
+</sound>
+<music>
+ 80
+</music>
+<game-speed>
+ 1
+</game-speed>
+<invincible>
+ 0
+</invincible>
+<fullscreen>
+ 0
+</fullscreen>
+<screen-size>
+ 800
+ 600
+</screen-size>
+<menu-font-width>
+ 16
+</menu-font-width>
+<menu-font-height>
+ 16
+</menu-font-height>
+<play-mode>
+ cooperative
+</play-mode>
+<lives>
+ 4
+</lives>
+<current-game>
+ open
+</current-game>
+<npc-buddies>
+ 1
+</npc-buddies>
+</configuration>

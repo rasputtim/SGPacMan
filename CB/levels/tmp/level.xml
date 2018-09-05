@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with EditiX at Tue Dec 20 12:00:47 BRST 2011 -->
+<configuration>
+<level_config>
+<field_width> 32
+</field_width>
+<field_height> 26
+</field_height>
+<tile_size> 20
+</tile_size>
+<pac_speed> 300
+</pac_speed>
+<baddie_speed> 250
+</baddie_speed>
+<baddie_iq> 0
+</baddie_iq>
+<vulnerability_duration> 10000
+</vulnerability_duration>
+<pac_startx> 1
+</pac_startx>
+<pac_starty> 15
+</pac_starty>
+<baddie_startx> 15
+</baddie_startx>
+<baddie_starty> 22
+</baddie_starty>
+</level_config>
+<configuration>

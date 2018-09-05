@@ -1,0 +1,5 @@
+IconHot is a useful site for developer of web and application. 
+It containing 60,000+ high-quality icons, each icon has PNG, 
+ICO and ICNS three formats available for download to used in 
+Linux, Windows and Mac systems. Note that you should reading 
+the license of icons before using them in your application.

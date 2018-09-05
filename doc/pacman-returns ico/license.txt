@@ -1,0 +1,4 @@
+Icon Author: smashingmagazine
+
+HomePage: http://www.smashingmagazine.com
+License: Free for non-commercial use.

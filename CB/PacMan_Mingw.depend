@@ -1,0 +1,4177 @@
+# depslib dependency file v1.0
+1409365564 source:d:\projetos\c++\gameengine\sgf\exemplos\mingw\01_hello_sdl2\01_hello_sdl.cpp
+	<SDL.h>
+	<stdio.h>
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\close_code.h
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 d:\projetos\c++\gameengine\sgf\exemplos\mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587298 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587306 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587311 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1408587299 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_premake.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_psp.h"
+	"SDL_config_minimal.h"
+
+1408647388 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1408587297 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\begin_code.h
+
+1408587297 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\close_code.h
+
+1408587301 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_config_windows.h
+	"SDL_platform.h"
+
+1408587302 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_config_winrt.h
+	"SDL_platform.h"
+
+1408587300 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1408587300 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1408587300 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1408587301 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_config_psp.h
+	"SDL_platform.h"
+
+1408587301 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1408587298 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1408587298 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587298 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587303 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587303 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1408587307 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587314 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1408587310 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587299 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587302 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1408587303 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587315 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587308 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587309 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587311 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587299 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1408587305 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587305 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1408587310 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1408587307 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587305 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587304 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587309 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1408587304 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587315 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587304 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587304 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587305 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587306 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587306 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587306 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587309 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587309 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587311 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587314 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587315 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2-2.0.3\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1409373194 source:d:\projetos\c++\gameengine\sgf\exemplos\mingw\teste01_mingw\01_hello_sdl.cpp
+	<SDL.h>
+	<stdio.h>
+	"SGF.h"
+
+1404448649 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\sgf.h
+	"SGF_Global.h"
+	"ai/all.h"
+	"network/all.h"
+	"exceptions/all.h"
+	"configuration/all.h"
+	"util/all.h"
+	"input/all.h"
+	"game/all.h"
+	"game/SGF_Control.h"
+	"geometry/all.h"
+	"graphics/all.h"
+	"objects/all.h"
+	"math/all.h"
+	"gui/all.h"
+	"lists/all.h"
+	"structures/all.h"
+	"script/all.h"
+	"sprite/all.h"
+	"sys/SGF_System.h"
+
+1408588174 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\sgf_global.h
+	"SGF_Config.h"
+	<ostream>
+	<string>
+	"util/SGF_FileSystem.h"
+
+1408838707 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\sgf_config.h
+	"SGF_Types.h"
+	"util/SGF_Debug.h"
+	<malloc.h>
+	<alloca.h>
+
+1408587869 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\sgf_types.h
+	<stdio.h>
+	<stdarg.h>
+	<string>
+	"../ExternalLibs/SDL2-2.0.3/include/SDL_config_windows.h"
+	<stdint.h>
+	"../ExternalLibs/SDL2-2.0.3/include/SDL_config_windows.h"
+	<assert.h>
+	<stdint.h>
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_debug.h
+	<ostream>
+	<string>
+	<map>
+	<vector>
+	<string>
+	"../SGF_Config.h"
+
+1408497433 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_filesystem.h
+	<exception>
+	<string>
+	<io.h>
+	<sys/io.h>
+	<vector>
+	<list>
+	<iostream>
+	<sstream>
+	"../SGF_Config.h"
+	"SGF_UtilStructs.h"
+	"SGF_Pointer.h"
+	"../util/SGF_Token.h"
+	"../util/SGF_FilesystemBase.h"
+	"../util/SGF_Path.h"
+	"../util/SGF_Thread.h"
+
+1408587974 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_utilstructs.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	<io.h>
+	<sys/io.h>
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	"../SGF_Config.h"
+	"../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+
+1408476638 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_pointer.h
+	"../SGF_Config.h"
+
+1408587910 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_token.h
+	<string>
+	<vector>
+	<ostream>
+	"../SGF_Config.h"
+	"../util/SGF_Debug.h"
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../exceptions/SGF_TokenException.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\exceptions\sgf_tokenexception.h
+	<string>
+	"../SGF_Config.h"
+	"SGF_Exception.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\exceptions\sgf_exception.h
+	<string>
+	<exception>
+	"../SGF_Config.h"
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_filesystembase.h
+	<string>
+	<list>
+	<vector>
+	"../SGF_Config.h"
+	"../exceptions/SGF_FileExceptions.h"
+	"../util/SGF_UtilStructs.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\exceptions\sgf_fileexceptions.h
+	<string>
+	"../SGF_Config.h"
+	"SGF_Exception.h"
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_path.h
+	<string>
+	"../SGF_Config.h"
+	"../exceptions/SGF_FileExceptions.h"
+
+1408489228 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_thread.h
+	"../SGF_Config.h"
+	"../exceptions/all.h"
+	"SGF_Util.h"
+	"SGF_Task.h"
+	"SGF_ThreadDefs.h"
+	<windows.h>
+	<stdio.h>
+
+1404468609 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\exceptions\all.h
+	"SGF_Exception.h"
+	"SGF_Error.h"
+	"SGF_LoadException.h"
+	"SGF_ShutdownException.h"
+	"SGF_TokenException.h"
+	"SGF_MenuException.h"
+	"SGF_MugenException.h"
+	"SGF_NetException.h"
+	"SGF_ScriptException.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\exceptions\sgf_error.h
+	"../SGF_Config.h"
+	"SGF_Exception.h"
+	<string>
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\exceptions\sgf_loadexception.h
+	<string>
+	"../SGF_Config.h"
+	"SGF_Exception.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\exceptions\sgf_shutdownexception.h
+	<exception>
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\exceptions\sgf_menuexception.h
+	<exception>
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\exceptions\sgf_mugenexception.h
+	"SGF_Exception.h"
+	<string>
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\exceptions\sgf_netexception.h
+	"../SGF_Config.h"
+	<string>
+	<exception>
+	"SGF_Exception.h"
+
+1404468609 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\exceptions\sgf_scriptexception.h
+	"SGF_Exception.h"
+	<string>
+	"../SGF_Config.h"
+
+1404468609 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_util.h
+	<stdlib.h>
+	<vector>
+	<list>
+	<string>
+	"../SGF_Config.h"
+	"SGF_Regex.h"
+	"SGF_Path.h"
+	"SGF_Displayable.h"
+
+1408771035 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_regex.h
+	"../SGF_Config.h"
+	<string>
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_displayable.h
+	"../SGF_Config.h"
+
+1404468609 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_task.h
+	"../SGF_Config.h"
+	"../exceptions/all.h"
+	"SGF_Util.h"
+	"SGF_ThreadDefs.h"
+
+1408587886 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_threaddefs.h
+	"../SGF_Config.h"
+	"../exceptions/all.h"
+	"SGF_Util.h"
+	"SGF_Task.h"
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL_thread.h"
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL_mutex.h"
+	<windows.h>
+	<stdio.h>
+	<stdio.h>
+	<malloc.h>
+	<memory.h>
+	<pthread.h>
+	<stdlib.h>
+	<time.h>
+	<errno.h>
+	<windows.h>
+	<stdio.h>
+
+1404448649 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\ai\all.h
+	"SGF_AstarHeap.h"
+	"SGF_AstarLib.h"
+	"SGF_Behavior.h"
+	"SGF_Map.h"
+	"SGF_PathFinder.h"
+
+1404448649 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\ai\sgf_astarheap.h
+	"../SGF_Config.h"
+	"SGF_AstarLib.h"
+
+1404448649 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\ai\sgf_astarlib.h
+	"../SGF_Config.h"
+
+1407771065 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\ai\sgf_behavior.h
+	"../SGF_Config.h"
+	"../objects/SGF_Object.h"
+	"../game/SGF_Command.h"
+
+1408944139 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\objects\sgf_object.h
+	"../SGF_Config.h"
+	"../util/all_sound.h"
+	"../util/SGF_Pointer.h"
+	<string>
+	<vector>
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\all_sound.h
+	"SGF_AudioSystem.h"
+	"SGF_SndManager.h"
+	"SGF_SoundManager.h"
+
+1408588055 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_audiosystem.h
+	<string>
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../../ExternalLibs/SDL2_mixer-2.0.0/SDL_mixer.h"
+	"../SGF_Config.h"
+	"SGF_Thread.h"
+	"SGF_Debug.h"
+	"SGF_Path.h"
+
+1408587823 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2_mixer-2.0.0\sdl_mixer.h
+	"../ExternalLibs/SDL2-2.0.3/include/SDL_stdinc.h"
+	"../ExternalLibs/SDL2-2.0.3/include/SDL_rwops.h"
+	"../ExternalLibs/SDL2-2.0.3/include/SDL_audio.h"
+	"../ExternalLibs/SDL2-2.0.3/include/SDL_endian.h"
+	"../ExternalLibs/SDL2-2.0.3/include/SDL_version.h"
+	"../ExternalLibs/SDL2-2.0.3/include/begin_code.h"
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"../ExternalLibs/SDL2-2.0.3/include/close_code.h"
+	"close_code.h"
+
+1408588085 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_sndmanager.h
+	"../SGF_Config.h"
+	"SGF_AudioSystem.h"
+	"SGF_MugenSound.h"
+	"../lists/all.h"
+	<stdio.h>
+	<string.h>
+	"../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+
+1408543661 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_mugensound.h
+	<string>
+	<map>
+	"SGF_Pointer.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\lists\all.h
+	"SGF_AirList.h"
+	"SGF_ImageList.h"
+	"SGF_PcxList.h"
+	"SGF_SndList.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\lists\sgf_airlist.h
+	"../SGF_Config.h"
+	"liststructs.h"
+
+1408588070 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\lists\liststructs.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\lists\sgf_imagelist.h
+	"../SGF_Config.h"
+	"liststructs.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\lists\sgf_pcxlist.h
+	"../SGF_Config.h"
+	"../sprite/defs.h"
+
+1408620678 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\sprite\defs.h
+	<fstream>
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<stdio.h>
+	<string.h>
+	"../SGF_Config.h"
+	"../graphics/SGF_Color.h"
+	"../util/SGF_Pointer.h"
+
+1408620761 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\graphics\sgf_color.h
+	<assert.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\lists\sgf_sndlist.h
+	"../SGF_Config.h"
+	"../util/SGF_AudioSystem.h"
+
+1404468609 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_soundmanager.h
+	"../SGF_Config.h"
+	"SGF_AudioSystem.h"
+	"SGF_Pointer.h"
+
+1406988389 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\game\sgf_command.h
+	<string>
+	"../input/all.h"
+	"../mugen/Ast/all.h"
+
+1408588174 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\input\all.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"SGF_StructsInput.h"
+	"SGF_Keyboard.h"
+	"SGF_Joystick.h"
+	"SGF_Events.h"
+	"SGF_Mouse.h"
+	"SGF_InputManager.h"
+	"SGF_InputMap.h"
+	"SGF_FrameControl.h"
+	"SGF_ButtonMapping.h"
+	"SGF_TextInput.h"
+
+1408588098 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\input\sgf_structsinput.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+
+1408588174 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\input\sgf_keyboard.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	<map>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"../SGF_Config.h"
+	"../util/SGF_Util.h"
+	"SGF_StructsInput.h"
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL_keycode.h"
+
+1408588011 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\input\sgf_joystick.h
+	<vector>
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+	"SGF_StructsInput.h"
+	"../util/SGF_Thread.h"
+
+1404468609 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\input\sgf_events.h
+	<vector>
+	"../SGF_Config.h"
+	"SGF_Keyboard.h"
+	"SGF_Mouse.h"
+	"SGF_Joystick.h"
+	"../util/SGF_Pointer.h"
+	"SGF_TextInput.h"
+
+1408588174 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\input\sgf_mouse.h
+	<map>
+	<vector>
+	"../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+	"SGF_StructsInput.h"
+	"../util/SGF_Thread.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\input\sgf_textinput.h
+	<sstream>
+	<string>
+	<map>
+	"../SGF_Config.h"
+	"SGF_InputMap.h"
+	"../util/SGF_Callback.h"
+	"../util/SGF_Pointer.h"
+	"SGF_Keyboard.h"
+	"SGF_Joystick.h"
+
+1406902435 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\input\sgf_inputmap.h
+	<map>
+	<vector>
+	<iostream>
+	"SGF_Keyboard.h"
+	"SGF_Joystick.h"
+	"SGF_Mouse.h"
+	"../util/SGF_Pointer.h"
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_callback.h
+	"../SGF_Config.h"
+	"SGF_Debug.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\input\sgf_inputmanager.h
+	<vector>
+	<stdlib.h>
+	"../SGF_Config.h"
+	"SGF_Input.h"
+	"SGF_Events.h"
+	"SGF_Mouse.h"
+	"SGF_Joystick.h"
+	"SGF_InputMap.h"
+	"SGF_TextInput.h"
+	"SGF_InputSource.h"
+	"../configuration/SGF_Configuration.h"
+	"../util/SGF_Debug.h"
+
+1408588174 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\input\sgf_input.h
+	"../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\input\sgf_inputsource.h
+
+1408941124 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\configuration\sgf_configuration.h
+	<map>
+	<sstream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<map>
+	"../SGF_Config.h"
+	"../util/SGF_Callback.h"
+	"../input/SGF_Joystick.h"
+	"../input/SGF_Mouse.h"
+	"../input/SGF_Keyboard.h"
+	"../input/SGF_Input.h"
+	"../util/SGF_FontInfo.h"
+	"../objects/SGF_Object.h"
+	"../util/SGF_Path.h"
+	"SGF_SysVars.h"
+	"../structures/SGF_List.h"
+	"../structures/SGF_HashTableFast.h"
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_fontinfo.h
+	<string>
+	"../SGF_Config.h"
+	"SGF_FileSystem.h"
+	"SGF_FontSystem.h"
+	"../resource/all.h"
+
+1408587991 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_fontsystem.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	<map>
+	<stdio.h>
+	<string.h>
+	"../SGF_Config.h"
+	"../ExternalLibs\SDL2_ttf-2.0.12/SDL_ttf.h"
+	"SGF_Pointer.h"
+	"../graphics/SGF_Bitmap.h"
+	"SGF_FileSystem.h"
+	"SGF_UtilStructs.h"
+	"../structures/SGF_DynamicArray.h"
+
+1408587834 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\sdl2_ttf-2.0.12\sdl_ttf.h
+	"../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../ExternalLibs/SDL2-2.0.3/include/begin_code.h"
+	"SDL.h"
+	"begin_code.h"
+	"../ExternalLibs/SDL2-2.0.3/include/close_code.h"
+	"close_code.h"
+
+1409331519 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\graphics\sgf_bitmap.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	<string>
+	<vector>
+	<iostream>
+	"../SGF_Config.h"
+	"../sprite/defs.h"
+	"SGF_Color.h"
+	"../gui/SGF_Coordinate.h"
+	"../gui/SGF_Rectarea.h"
+	"../util/SGF_UtilStructs.h"
+	"../util/SGF_Thread.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\gui\sgf_coordinate.h
+	<vector>
+	"../SGF_Config.h"
+
+1408588019 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\gui\sgf_rectarea.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+	"../graphics/SGF_Color.h"
+
+1404448655 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\structures\sgf_dynamicarray.h
+	<iostream>
+	<cstdlib>
+	"../SGF_Config.h"
+	"../util/SGF_Pointer.h"
+	"../util/SGF_Debug.h"
+	"SDL.h"
+	"../exceptions/SGF_Error.h"
+
+1404448654 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\resource\all.h
+	"SGF_Collector.h"
+	"SGF_ResourceManager.h"
+	"SGF_FontRender.h"
+
+1404448654 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\resource\sgf_collector.h
+	"../SGF_Config.h"
+	"all.h"
+	"../graphics/all.h"
+	"../util/SGF_FileSystem.h"
+	<iostream>
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\graphics\all.h
+	"SGF_FireEffect.h"
+	"SGF_GradientEffect.h"
+	"SGF_Bitmap.h"
+	"SGF_Color.h"
+	"SGF_TransBitmap.h"
+	"SGF_LitBitmap.h"
+	"SGF_Poligon.h"
+
+1408588038 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\graphics\sgf_fireeffect.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+	"../graphics/SGF_Color.h"
+
+1408588174 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\graphics\sgf_gradienteffect.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+	"../util/SGF_Token.h"
+	"../graphics/SGF_Color.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\graphics\sgf_transbitmap.h
+	"../SGF_Config.h"
+	"SGF_Bitmap.h"
+	"SGF_Color.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\graphics\sgf_litbitmap.h
+	"../SGF_Config.h"
+	"SGF_Bitmap.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\graphics\sgf_poligon.h
+	"../SGF_Config.h"
+	"SGF_Bitmap.h"
+	"SGF_Color.h"
+
+1408560127 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\resource\sgf_resourcemanager.h
+	"../SGF_Config.h"
+	<map>
+	<string>
+	<vector>
+	"../util/SGF_FontSystem.h"
+	"../mugen/gc.h"
+	"../util/SGF_Timedif.h"
+	"../util/all_sound.h"
+	"../exceptions/all.h"
+	"../graphics/all.h"
+	"../sprite/all.h"
+	"../util/SGF_Pointer.h"
+	"../gui/all.h"
+
+1407879020 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\gc.h
+	<list>
+	"Ast/all.h"
+
+1408500394 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\all.h
+	"attribute.h"
+	"attribute-simple.h"
+	"attribute-keyword.h"
+	"attribute-array.h"
+	"argument.h"
+	"Configuration.h"
+	"Expression.h"
+	"identifier.h"
+	"Modifier.h"
+	"Section.h"
+	"Value.h"
+	"variable.h"
+	"value-list.h"
+	"number.h"
+	"string.h"
+	"keyword.h"
+	"keyword-array.h"
+	"filename.h"
+	"collectable.h"
+	"walker.h"
+	"range.h"
+	"extra.h"
+	"function.h"
+	"hitdef.h"
+	"key.h"
+	"helper.h"
+	"astManager.h"
+	"operand.h"
+	"Stack.h"
+	"resource.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\attribute.h
+	"walker.h"
+	<map>
+	<string>
+	"ast.h"
+	"exception.h"
+	"../../util/SGF_Debug.h"
+
+1406810553 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\walker.h
+	"../../SGF_Config.h"
+
+1407878901 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\ast.h
+	<map>
+	<string>
+	"../../SGF_Config.h"
+	"../../util/SGF_Token.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\exception.h
+	<exception>
+	"../../exceptions/all.h"
+	"../../SGF_Config.h"
+	<string>
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\attribute-simple.h
+	"attribute.h"
+	"identifier.h"
+	"Value.h"
+	"walker.h"
+	<sstream>
+	"../../util/SGF_Debug.h"
+
+1406336472 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\identifier.h
+	<list>
+	<string>
+	<sstream>
+	<algorithm>
+	<map>
+	"Value.h"
+	"../../util/SGF_Token.h"
+	"../../util/SGF_Util.h"
+
+1406741818 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\value.h
+	<iostream>
+	<map>
+	<vector>
+	"walker.h"
+	"exception.h"
+	"ast.h"
+	"../../util/SGF_Debug.h"
+	"../../util/SGF_Pointer.h"
+
+1407945039 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\attribute-keyword.h
+	"attribute.h"
+	"keyword.h"
+	"Value.h"
+	"walker.h"
+	<sstream>
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\keyword.h
+	"Value.h"
+	<string>
+
+1407945072 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\attribute-array.h
+	"all.h"
+	<sstream>
+	"../../util/SGF_Debug.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\argument.h
+	"Value.h"
+	<string>
+	<sstream>
+
+1407958975 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\configuration.h
+	<list>
+	<stdio.h>
+	"Section.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\section.h
+	<stdio.h>
+	<map>
+	<list>
+	<string>
+	<iostream>
+	<string>
+	<stdlib.h>
+	"attribute.h"
+	"attribute-simple.h"
+	"Value.h"
+	"exception.h"
+	"ast.h"
+	"../../util/SGF_Debug.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\expression.h
+	"Value.h"
+	"Stack.h"
+
+1406393471 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\stack.h
+	"../../util/SGF_Debug.h"
+	<stdio.h>
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<iostream>
+	<sstream>
+	<streambuf>
+	<fstream>
+	<stdlib.h>
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\modifier.h
+
+1404448651 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\variable.h
+	<stdio.h>
+
+1406162112 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\value-list.h
+	"Value.h"
+	<list>
+	<string>
+	<sstream>
+	"../../util/SGF_Debug.h"
+	"../../exceptions/all.h"
+
+1406688579 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\number.h
+	"Value.h"
+	<string>
+	<sstream>
+	<math.h>
+
+1406688627 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\string.h
+	"Value.h"
+	"../../util/SGF_Debug.h"
+	<string>
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\keyword-array.h
+	"attribute.h"
+	"keyword.h"
+	"identifier.h"
+	"exception.h"
+	"Value.h"
+	"walker.h"
+	<sstream>
+	"../../util/SGF_Debug.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\filename.h
+	"Value.h"
+	<string>
+	"../../util/SGF_Util.h"
+
+1404468609 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\collectable.h
+	<list>
+	<iostream>
+	"all.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\range.h
+	"Value.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\extra.h
+	<list>
+	<string>
+	<algorithm>
+	<string.h>
+	"Section.h"
+	"exception.h"
+	"../../util/SGF_Debug.h"
+	"../../util/tokenreader.h"
+
+1404954116 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\tokenreader.h
+	<fstream>
+	<string>
+	<vector>
+	"../SGF_Config.h"
+	"../exceptions/SGF_TokenException.h"
+	"SGF_FileSystem.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\function.h
+	"Value.h"
+	"value-list.h"
+
+1405743670 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\hitdef.h
+	"Value.h"
+	<string>
+	<sstream>
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\key.h
+	"ast.h"
+	"walker.h"
+	<map>
+	<vector>
+	"../../util/SGF_Debug.h"
+
+1406526623 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\helper.h
+	<list>
+	<string>
+	<sstream>
+	<algorithm>
+	<map>
+	"Value.h"
+	"../../util/SGF_Util.h"
+	"../../util/SGF_Debug.h"
+
+1408560197 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\astmanager.h
+	"all.h"
+	"../gc.h"
+	"../../resource/SGF_ResourceManager.h"
+	<vector>
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\operand.h
+	"Value.h"
+	<string>
+	<sstream>
+	<math.h>
+
+1404448651 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\mugen\ast\resource.h
+	"Value.h"
+	<string>
+	<sstream>
+	<math.h>
+	"../../util/SGF_Pointer.h"
+	"../../util/SGF_Token.h"
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_timedif.h
+	<time.h>
+	<string>
+	"../SGF_Config.h"
+
+1404448654 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\sprite\all.h
+	"SGF_SffManager.h"
+	"SGF_Efects.h"
+	"SGF_SffSprMan.h"
+	"SGF_MugenSprite.h"
+	"SGF_RleSprite.h"
+
+1408134242 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\sprite\sgf_sffmanager.h
+	<string>
+	<fstream>
+	<iostream>
+	"defs.h"
+	"../SGF_Config.h"
+
+1404448654 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\sprite\sgf_efects.h
+	<string>
+	<map>
+	<vector>
+	<list>
+	"../SGF_Config.h"
+	"../graphics/all.h"
+	"exception.h"
+	"../input/all.h"
+	"../util/SGF_Point.h"
+	"../util/SGF_FileSystem.h"
+	"../sprite/defs.h"
+	"mugenutil.h"
+
+1408193128 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\sprite\sgf_sffsprman.h
+	<stdio.h>
+	"../SGF_Global.h"
+	"../util/AirManager.h"
+	"../graphics/all.h"
+	<string.h>
+	<SDL.h>
+	"../lists/all.h"
+	"SGF_SffManager.h"
+	"defs.h"
+	"SGF_MugenSprite.h"
+	"../SGF_Config.h"
+	"../graphics/SGF_Color.h"
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\airmanager.h
+	"../lists/all.h"
+	"../lists/liststructs.h"
+	"../sprite/defs.h"
+
+1408120811 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\sprite\sgf_mugensprite.h
+	<string>
+	<fstream>
+	<iostream>
+	"../SGF_Config.h"
+	"SGF_Efects.h"
+	"SGF_SffSprMan.h"
+
+1404448654 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\sprite\sgf_rlesprite.h
+	"SDL.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\gui\all.h
+	"SGF_FadetoolGui.h"
+	"SGF_Box.h"
+	"SGF_ContextBox.h"
+	"SGF_Coordinate.h"
+	"SGF_GuiAnimation.h"
+	"SGF_PopupBox.h"
+	"SGF_Rectarea.h"
+	"SGF_ScrollList.h"
+	"SGF_TabbedBox.h"
+	"SGF_Widget.h"
+	"SGF_LineEdit.h"
+	"SGF_SelectList.h"
+	"SGF_BoundBox.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\gui\sgf_fadetoolgui.h
+	"../SGF_Config.h"
+	"../util/SGF_Token.h"
+	"../graphics/SGF_Color.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\gui\sgf_box.h
+	<string>
+	"../SGF_Config.h"
+	"SGF_Widget.h"
+
+1408588174 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\gui\sgf_widget.h
+	"../SGF_Config.h"
+	"SGF_Rectarea.h"
+	"SGF_Coordinate.h"
+	"../graphics/all.h"
+	"../exceptions/all.h"
+	"../SGF_Global.h"
+	"../util/SGF_Token.h"
+	"../util/SGF_Pointer.h"
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\gui\sgf_contextbox.h
+	<string>
+	<vector>
+	"../SGF_Config.h"
+	"SGF_Widget.h"
+	"SGF_PopupBox.h"
+	"SGF_ScrollList.h"
+	"../util/SGF_LanguageString.h"
+	"../graphics/all.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\gui\sgf_popupbox.h
+	<string>
+	<vector>
+	"../SGF_Config.h"
+	"SGF_Widget.h"
+	"SGF_Box.h"
+	"../graphics/all.h"
+	"SGF_Coordinate.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\gui\sgf_scrolllist.h
+	<string>
+	<vector>
+	"../SGF_Config.h"
+	"SGF_Coordinate.h"
+	"../util/SGF_Pointer.h"
+	"../util/SGF_Util.h"
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_languagestring.h
+	<string>
+	<map>
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\gui\sgf_guianimation.h
+	<vector>
+	<map>
+	<string>
+	"SGF_Coordinate.h"
+	"../util/SGF_Pointer.h"
+	"../graphics/SGF_GradientEffect.h"
+	"../util/SGF_FileSystem.h"
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\gui\sgf_tabbedbox.h
+	<string>
+	<vector>
+	"../SGF_Config.h"
+	"SGF_Widget.h"
+	"../util/SGF_Token.h"
+	"../graphics/all.h"
+	"SGF_ContextBox.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\gui\sgf_lineedit.h
+	"../SGF_Config.h"
+	<iostream>
+	<vector>
+	"SGF_Widget.h"
+	"SGF_GuiTimer.h"
+	"../input/SGF_TextInput.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\gui\sgf_guitimer.h
+	"../SGF_Config.h"
+	<windows.h>
+	<time.h>
+	<sys/time.h>
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\gui\sgf_selectlist.h
+	<string>
+	<vector>
+	"SGF_Coordinate.h"
+	"../util/SGF_Pointer.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\gui\sgf_boundbox.h
+	"../math/SGF_Vector.h"
+	"../math/SGF_Matriz.h"
+	"../math/SGF_Plane.h"
+	"../math/SGF_Rotation.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_vector.h
+	"../SGF_Config.h"
+	"SGF_Math.h"
+	"../util/SGF_Heap.h"
+	"SGF_Random.h"
+	"SGF_Simd.h"
+
+1408825538 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_math.h
+	"../SGF_Config.h"
+	<math.h>
+	<ppc_intrinsics.h>
+	<float.h>
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_heap.h
+	"../SGF_Config.h"
+	"SGF_Util.h"
+	"../math/SGF_Simd.h"
+	<sys/mman.h>
+	<Windows.h>
+	"structures/BTree.h"
+
+1408914922 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_simd.h
+	"../SGF_Config.h"
+	"../util/SGF_UtilStructs.h"
+
+1408658906 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\structures\btree.h
+	"SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_random.h
+	"../SGF_Config.h"
+	"SGF_Math.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_matriz.h
+	"../SGF_Config.h"
+	"SGF_Vector.h"
+	"SGF_Simd.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_plane.h
+	"../SGF_Config.h"
+	"SGF_Vector.h"
+	"SGF_Matriz.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_rotation.h
+	"../SGF_Config.h"
+	"SGF_Vector.h"
+	"SGF_Matriz.h"
+	"SGF_Angles.h"
+	"../util/SGF_StringUtils.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_angles.h
+	"../SGF_Config.h"
+	"SGF_Vector.h"
+
+1408657536 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_stringutils.h
+	"SGF_ArgsCmdLine.h"
+	<cstring>
+	<stdio.h>
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_argscmdline.h
+	"../SGF_Config.h"
+
+1404448654 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\resource\sgf_fontrender.h
+	<string>
+	<vector>
+	"../util/SGF_FontSystem.h"
+	"../util/SGF_FileSystem.h"
+
+1408657560 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\configuration\sgf_sysvars.h
+	"../SGF_Config.h"
+	"SGF_CmdVars.h"
+	"../util/SGF_Callback.h"
+	<typeinfo>
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\configuration\sgf_cmdvars.h
+	"../SGF_Config.h"
+
+1404468609 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\structures\sgf_list.h
+	"../SGF_Config.h"
+
+1404448655 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\structures\sgf_hashtablefast.h
+	"../util/SGF_HashUtils.h"
+	"../SGF_Config.h"
+	"../math/SGF_Matriz.h"
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_hashutils.h
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\input\sgf_framecontrol.h
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\input\sgf_buttonmapping.h
+	"SGF_Joystick.h"
+	<vector>
+
+1404448649 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\ai\sgf_map.h
+	"../SGF_Config.h"
+	"../gui/SGF_Coordinate.h"
+	"../structures/SGF_DynamicArray.h"
+	<fstream>
+	<sstream>
+
+1404448649 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\ai\sgf_pathfinder.h
+	"../SGF_Config.h"
+	"SGF_AstarLib.h"
+	"../gui/SGF_Coordinate.h"
+	"SGF_Map.h"
+	"SGF_AstarHeap.h"
+
+1404448651 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\network\all.h
+	"SGF_Network.h"
+	"SGF_NetServer.h"
+	"SGF_NetServer.h"
+	"SGF_NetChat.h"
+	"SGF_NetChatServer.h"
+	"SGF_NetChatClient.h"
+
+1404448651 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\network\sgf_network.h
+	<stdint.h>
+	<string>
+	<vector>
+	<exception>
+	"../SGF_Config.h"
+	"../exceptions/SGF_NetException.h"
+	"../../ExternalLibs/hawknl/hawknl/nl.h"
+
+1404448642 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\hawknl\hawknl\nl.h
+	<string.h>
+	"hawklib.h"
+	<stdlib.h>
+
+1404448642 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\hawknl\hawknl\hawklib.h
+
+1404448651 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\network\sgf_netserver.h
+	"../SGF_Config.h"
+
+1404448651 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\network\sgf_netchat.h
+	"../SGF_Config.h"
+
+1404468609 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\network\sgf_netchatserver.h
+	<string>
+	<vector>
+	"../SGF_Config.h"
+	"../network/SGF_Network.h"
+	"../util/SGF_Thread.h"
+	"../util/SGF_Messages.h"
+	"../util/SGF_Pointer.h"
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_messages.h
+	"../SGF_Config.h"
+	"../graphics/all.h"
+	"../util/SGF_FontSystem.h"
+
+1404468609 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\network\sgf_netchatclient.h
+	<queue>
+	"../SGF_Config.h"
+	"SGF_Network.h"
+	"../util/SGF_Messages.h"
+	<string>
+	"../util/SGF_Thread.h"
+	"../input/all.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\configuration\all.h
+	"SGF_Configuration.h"
+
+1404468609 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\all.h
+	"all_fonts.h"
+	"all_messages.h"
+	"all_sound.h"
+	"SGF_Token.h"
+	"SGF_TokenReader_xml.h"
+	"SGF_Util.h"
+	"SGF_Xmltools.h"
+	"SGF_Callback.h"
+	"SGF_Debug.h"
+	"SGF_Ebox.h"
+	"SGF_FileSystem.h"
+	"SGF_Pointer.h"
+	"SGF_Regex.h"
+	"SGF_SdlManager.h"
+	"SGF_Loading.h"
+	"SGF_Timedif.h"
+	"SGF_Timer.h"
+	"SGF_ThreadDefs.h"
+	"SGF_Thread.h"
+	"SGF_UtilStructs.h"
+	"SGF_LanguageString.h"
+	"SGF_Utf.h"
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\all_fonts.h
+	"SGF_FontInfo.h"
+	"SGF_FileSystem.h"
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\all_messages.h
+	"SGF_MessageQueue.h"
+	"SGF_Messages.h"
+
+1404954415 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_messagequeue.h
+	<string>
+	<queue>
+	"../SGF_Config.h"
+	"SGF_Thread.h"
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_tokenreader_xml.h
+	<fstream>
+	<string>
+	<vector>
+	<stdio.h>
+	<malloc.h>
+	"../SGF_Config.h"
+	"../../ExternalLibs/expat-2.1.0/lib/expat.h"
+	"SGF_Token.h"
+	"../exceptions/all.h"
+
+1404448642 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\expat-2.1.0\lib\expat.h
+	<stdlib.h>
+	"expat_external.h"
+
+1404448642 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\expat-2.1.0\lib\expat_external.h
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_xmltools.h
+	<stdio.h>
+	<malloc.h>
+	"../../ExternalLibs/expat-2.1.0/lib/expat.h"
+	"../SGF_Config.h"
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_ebox.h
+	"../SGF_Config.h"
+	"../graphics/all.h"
+	<vector>
+
+1408401481 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_sdlmanager.h
+	<SDL.h>
+	"../SGF_Config.h"
+	"../SGF_Global.h"
+	"SGF_UtilStructs.h"
+	"all_sound.h"
+	"../../ExternalLibs/SDL2_mixer-2.0.0/SDL_mixer.h"
+	"../external/SDL_framerate.h"
+	"SGF_FontSystem.h"
+	"../external/glSDL.h"
+	"../external/fastevents.h"
+	"../input/SGF_InputManager.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\external\sdl_framerate.h
+	<SDL.h>
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\external\glsdl.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+	"SDL_image.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\external\fastevents.h
+	"SDL.h"
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_loading.h
+	"../SGF_Config.h"
+	"SGF_Messages.h"
+	"SGF_MessageQueue.h"
+	"../level/SGF_LevelUtils.h"
+	"SGF_Thread.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\level\sgf_levelutils.h
+	<string>
+	<vector>
+	"../util/SGF_Token.h"
+	"../SGF_Config.h"
+
+1404468609 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_timer.h
+	<iostream>
+	<vector>
+	"../SGF_Config.h"
+	"SGF_Thread.h"
+
+1404448656 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\util\sgf_utf.h
+	<string>
+	<stdint.h>
+	"SDL.h"
+
+1407771121 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\game\all.h
+	"SGF_Console.h"
+	"SGF_Control.h"
+	"SGF_Mod.h"
+	"SGF_Theater.h"
+
+1408558446 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\game\sgf_console.h
+	<string>
+	<vector>
+	<sstream>
+	<map>
+	<string>
+	<time.h>
+	<deque>
+	"../SGF_Config.h"
+	"../graphics/all.h"
+	"../exceptions/all.h"
+	"../SGF_Global.h"
+	"../resource/all.h"
+	"../input/SGF_TextInput.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\game\sgf_control.h
+	<time.h>
+	"../SGF_Config.h"
+	"../gui/SGF_Box.h"
+	"../graphics/SGF_Bitmap.h"
+	"../resource/SGF_Collector.h"
+	"../game/SGF_Mod.h"
+	"../util/SGF_SdlManager.h"
+	"../configuration/SGF_Configuration.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\game\sgf_mod.h
+	<string>
+	<vector>
+	"../SGF_Config.h"
+	"../util/SGF_Path.h"
+	"../exceptions/SGF_LoadException.h"
+
+1408558470 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\game\sgf_theater.h
+	"objects\all.h"
+	<vector>
+	<deque>
+	<map>
+	<string>
+	"../SGF_Config.h"
+	"../exceptions/all.h"
+	"../util/SGF_Pointer.h"
+	"../objects/all.h"
+	"../network/SGF_Network.h"
+
+1407763400 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\objects\all.h
+	"SGF_Element.h"
+	"SGF_Object.h"
+	"SGF_ObjectCollidable.h"
+	"SGF_ObjectMessages.h"
+
+1408937772 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\objects\sgf_element.h
+	"../SGF_Config.h"
+	"../graphics/all.h"
+	"../gui/SGF_Coordinate.h"
+	"all.h"
+
+1408944139 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\objects\sgf_objectcollidable.h
+	<string>
+	<vector>
+	"../SGF_Config.h"
+	"all.h"
+	"../SGF_Global.h"
+	"../util/all.h"
+
+1404448653 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\objects\sgf_objectmessages.h
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\geometry\all.h
+	"SGF_DrawVert.h"
+	"SGF_JointTransform.h"
+	"SGF_TraceModel.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\geometry\sgf_drawvert.h
+	"../SGF_Config.h"
+	"../math/SGF_Vector.h"
+	"../math/SGF_Simd.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\geometry\sgf_jointtransform.h
+	"../math/SGF_Quaternion.h"
+	"../math/SGF_Vector.h"
+	"../math/SGF_Matriz.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_quaternion.h
+	"../SGF_Config.h"
+	"SGF_Vector.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\geometry\sgf_tracemodel.h
+	"../SGF_Config.h"
+	"../math/SGF_Vector.h"
+	"../gui/SGF_BoundBox.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\all.h
+	"SGF_Angles.h"
+	"SGF_Quaternion.h"
+	"SGF_Curve.h"
+	"SGF_Complex.h"
+	"SGF_Extrapolate.h"
+	"SGF_Interpolation.h"
+	"SGF_Lincp.h"
+	"SGF_Odife.h"
+	"SGF_Plane.h"
+	"SGF_PlaneList.h"
+	"SGF_Vector.h"
+	"SGF_Matriz.h"
+	"SGF_Pluecker.h"
+	"SGF_Polynomial.h"
+	"SGF_Random.h"
+	"SGF_Rotation.h"
+	"SGF_Simd.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_curve.h
+	"../SGF_Config.h"
+	"../structures/SGF_List.h"
+	"SGF_Matriz.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_complex.h
+	"../SGF_Config.h"
+	"SGF_Math.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_extrapolate.h
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_interpolation.h
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_lincp.h
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_odife.h
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_planelist.h
+	"../SGF_Config.h"
+	"../structures/SGF_List.h"
+	"SGF_Plane.h"
+	"../structures/SGF_HashTableFast.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_pluecker.h
+	"../SGF_Config.h"
+	"SGF_Vector.h"
+	"SGF_Matriz.h"
+	"SGF_Angles.h"
+	"../util/SGF_StringUtils.h"
+
+1404448650 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\math\sgf_polynomial.h
+	"../SGF_Config.h"
+	"SGF_Complex.h"
+	"SGF_Math.h"
+	"../util/SGF_Heap.h"
+
+1404448655 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\structures\all.h
+	"SGF_BHeap.h"
+	"SGF_Btree.h"
+	"SGF_DynamicArray.h"
+	"SGF_Parameter.h"
+	"SGF_Queue.h"
+	"SGF_Stack.h"
+	"SGF_List.h"
+	"SGF_LinkList.h"
+	"SGF_HashTable.h"
+	"SGF_HashTableFast.h"
+
+1404448655 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\structures\sgf_bheap.h
+	"../exceptions/all.h"
+
+1404448655 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\structures\sgf_btree.h
+	"../exceptions/all.h"
+	"../util/SGF_Debug.h"
+
+1404448655 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\structures\sgf_parameter.h
+	"../SGF_Config.h"
+	"../util/SGF_Pointer.h"
+	<vector>
+
+1408561421 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\structures\sgf_queue.h
+	<stdio.h>
+	<stddef.h>
+	<queue>
+	"../SGF_Config.h"
+	"../util/SGF_Thread.h"
+
+1404448655 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\structures\sgf_stack.h
+	<stdio.h>
+	<stddef.h>
+	"../SGF_Config.h"
+
+1404448655 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\structures\sgf_linklist.h
+
+1404448655 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\structures\sgf_hashtable.h
+	"../SGF_Config.h"
+	"../util/SGF_HashUtils.h"
+
+1404468609 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\script\all.h
+	"SGF_Scripting.h"
+	"SGF_Perl.h"
+	"SGF_Lua.h"
+	"SGF_Phyton.h"
+
+1404448654 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\script\sgf_scripting.h
+	"../SGF_Config.h"
+	<string>
+	"../util/SGF_FileSystem.h"
+
+1404448654 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\script\sgf_perl.h
+	<string>
+	"../SGF_Config.h"
+	"SGF_Scripting.h"
+	"../../ExternalLibs/perl56/win32/CORE/EXTERN.h"
+	"../../ExternalLibs/perl56/win32/CORE/perl.h"
+	"EXTERN.h"
+	<perl.h>
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\extern.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\perl.h
+	"config.h"
+	"error: USE_ITHREADS and USE_5005THREADS are incompatible"
+	"error: USE_ITHREADS and USE_THREADS are incompatible"
+	<pthread.h>
+	<sys/types.h>
+	<stdarg.h>
+	<varargs.h>
+	<bsd/ctypes.h>
+	<objc/NXCType.h>
+	<appkit/NXCType.h>
+	<ctype.h>
+	<locale.h>
+	<setjmp.h>
+	<sys/types.h>
+	<sys/param.h>
+	<stdlib.h>
+	<unistd.h>
+	"embed.h"
+	<stddef.h>
+	<string.h>
+	<strings.h>
+	<memory.h>
+	<netinet/in.h>
+	"arpa/inet.h"
+	<sys/stat.h>
+	<time.h>
+	<sys/time.h>
+	<sys/times.h>
+	<errno.h>
+	"sys/socket.h"
+	<socks.h>
+	<netdb.h>
+	<net/errno.h>
+	<sys/ioctl.h>
+	"../win_external_libs/dirent.h"
+	<sys/dir.h>
+	<sys/ndir.h>
+	<ndir.h>
+	<sys/dir.h>
+	<sys/mode.h>
+	<limits.h>
+	<float.h>
+	<float.h>
+	<limits.h>
+	<float.h>
+	<ieeefp.h>
+	<sunmath.h>
+	<limits.h>
+	<values.h>
+	"handy.h"
+	"iperlsys.h"
+	"vmesa/vmesaish.h"
+	"os2ish.h"
+	"dosish.h"
+	"vmsish.h"
+	"./plan9/plan9ish.h"
+	"mpeix/mpeixish.h"
+	"vosish.h"
+	"epocish.h"
+	"macos/macish.h"
+	"unixish.h"
+	"fakethr.h"
+	"win32thread.h"
+	"os2thread.h"
+	<mach/cthreads.h>
+	<pthread.h>
+	"win32.h"
+	"iperlsys.h"
+	"regexp.h"
+	"sv.h"
+	"util.h"
+	"form.h"
+	"gv.h"
+	"cv.h"
+	"opnames.h"
+	"op.h"
+	"cop.h"
+	"av.h"
+	"hv.h"
+	"mg.h"
+	"scope.h"
+	"warnings.h"
+	"utf8.h"
+	<math.h>
+	<mach-o/dyld.h>
+	<crt_externs.h>
+	"perly.h"
+	"perlvars.h"
+	"thrdvar.h"
+	"intrpvar.h"
+	"thrdvar.h"
+	"thread.h"
+	"pp.h"
+	"proto.h"
+	"opcode.h"
+	"embedvar.h"
+	"intrpvar.h"
+	"thrdvar.h"
+	"embed.h"
+	"INTERN.h"
+	"EXTERN.h"
+	"opcode.h"
+	"embed.h"
+	"perlvars.h"
+	<sys/ipc.h>
+	<sys/sem.h>
+	<fcntl.h>
+	<sys/file.h>
+	<sys/statvfs.h>
+	<sys/mount.h>
+	<mntent.h>
+	<sys/statfs.h>
+	<sys/vfs.h>
+	<ustat.h>
+	<libutil.h>
+	"patchlevel.h"
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\config.h
+	"Bletch: How does this C preprocessor catenate tokens?"
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\embed.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\arpa\inet.h
+
+1404468609 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\sys\socket.h
+	<windows.h>
+	<winsock.h>
+	"win32.h"
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\handy.h
+	<inttypes.h>
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\iperlsys.h
+	"perlsdio.h"
+	"perl.h"
+	"perlsfio.h"
+	<setjmp.h>
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\perlsdio.h
+	<stdio.h>
+	"nostdio.h"
+	"nostdio.h"
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\nostdio.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\perlsfio.h
+	<sfio.h>
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\dosish.h
+	<signal.h>
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\unixish.h
+	<signal.h>
+	<floatingpoint.h>
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\fakethr.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\win32thread.h
+	"win32.h"
+	<process.h>
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\win32.h
+	"BuildInfo.h"
+	<windows.h>
+	"../win_external_libs/dirent.h"
+	<io.h>
+	<process.h>
+	<stdio.h>
+	<direct.h>
+	<stdlib.h>
+	<fcntl.h>
+	"EXTERN.h"
+	<sys/types.h>
+	"sys/socket.h"
+	"netdb.h"
+	"win32iop.h"
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\buildinfo.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\netdb.h
+	"sys/socket.h"
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\win32iop.h
+	<sys/utime.h>
+	<utime.h>
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\regexp.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\sv.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\util.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\form.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\gv.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\cv.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\opnames.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\op.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\cop.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\av.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\hv.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\mg.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\scope.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\warnings.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\utf8.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\perly.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\perlvars.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\thrdvar.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\intrpvar.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\thread.h
+	"win32thread.h"
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\pp.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\proto.h
+	"pp_proto.h"
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\pp_proto.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\opcode.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\embedvar.h
+	"error: PERL_OBJECT + MULTIPLICITY don't go together"
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\intern.h
+
+1404448646 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\externallibs\perl56\win32\core\patchlevel.h
+	"BuildInfo.h"
+
+1404468609 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\script\sgf_lua.h
+	<string>
+	"../SGF_Config.h"
+	"SGF_Scripting.h"
+
+1404468609 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\script\sgf_phyton.h
+	<string>
+	"../SGF_Config.h"
+	"SGF_Scripting.h"
+	<Python.h>
+	"../configuration/SGF_SysVars.h"
+	"structures/SGF_List.h"
+	"exceptions/all.h"
+
+1408914460 d:\projetos\c++\gameengine\sgf\releases\2.2\headers\gamecore\sys\sgf_system.h
+	<stdint.h>
+	<string>
+	"../SGF_Config.h"
+	"../util/SGF_UtilStructs.h"
+
+1409335205 source:d:\projetos\c++\gameengine\sgf\exemplos\mingw\teste01_mingw\src\game.cpp
+	"Game.h"
+
+1409334462 d:\projetos\c++\gameengine\sgf\exemplos\mingw\teste01_mingw\src\game.h
+	"game/SGF_Control.h"
+	"game/SGF_Theater.h"
+	"SGF_Global.h"
+
+1409335205 source:d:\projetos\c++\gameengine\sgf\exemplos\tutorial_01-criarjanela\src\game.cpp
+	"Game.h"
+
+1409334462 d:\projetos\c++\gameengine\sgf\exemplos\tutorial_01-criarjanela\src\game.h
+	"game/SGF_Control.h"
+	"game/SGF_Theater.h"
+	"SGF_Global.h"
+
+1409024216 source:d:\projetos\c++\gameengine\pacman\src\bckgrobj.cpp
+	"BckgrObj.h"
+	"settings.h"
+
+1409499714 d:\projetos\c++\gameengine\pacman\src\bckgrobj.h
+	"Gamecore/objects/SGF_Object.h"
+	"Game.h"
+
+1408944139 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\objects\sgf_object.h
+	"../SGF_Config.h"
+	"../util/all_sound.h"
+	"../util/SGF_Pointer.h"
+	<string>
+	<vector>
+
+1410105294 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\sgf_config.h
+	"SGF_Types.h"
+	"util/SGF_Debug.h"
+	<malloc.h>
+	<alloca.h>
+
+1408587869 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\sgf_types.h
+	<stdio.h>
+	<stdarg.h>
+	<string>
+	"../ExternalLibs/SDL2-2.0.3/include/SDL_config_windows.h"
+	<stdint.h>
+	"../ExternalLibs/SDL2-2.0.3/include/SDL_config_windows.h"
+	<assert.h>
+	<stdint.h>
+
+1408587301 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_config_windows.h
+	"SDL_platform.h"
+
+1408647388 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1408587297 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\begin_code.h
+
+1408587297 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\close_code.h
+
+1404448656 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_debug.h
+	<ostream>
+	<string>
+	<map>
+	<vector>
+	<string>
+	"../SGF_Config.h"
+
+1404448656 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\all_sound.h
+	"SGF_AudioSystem.h"
+	"SGF_SndManager.h"
+	"SGF_SoundManager.h"
+
+1408588055 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_audiosystem.h
+	<string>
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../../ExternalLibs/SDL2_mixer-2.0.0/SDL_mixer.h"
+	"../SGF_Config.h"
+	"SGF_Thread.h"
+	"SGF_Debug.h"
+	"SGF_Path.h"
+
+1408587298 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587306 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587311 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1408587299 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_premake.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_psp.h"
+	"SDL_config_minimal.h"
+
+1408587302 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_config_winrt.h
+	"SDL_platform.h"
+
+1408587300 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1408587300 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1408587300 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1408587301 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_config_psp.h
+	"SDL_platform.h"
+
+1408587301 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1408587298 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1408587298 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587298 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587303 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587303 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1408587307 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587314 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1408587310 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587299 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587302 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1408587303 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587315 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587308 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587309 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587311 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587299 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1408587305 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587305 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1408587310 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1408587307 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587305 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587304 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587309 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1408587304 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587315 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587304 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587304 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587305 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587306 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587306 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587306 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587309 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587309 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587311 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587314 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1408587315 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2-2.0.3\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1410187764 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2_mixer-2.0.0\sdl_mixer.h
+	"../ExternalLibs/SDL2-2.0.3/include/SDL_stdinc.h"
+	"../ExternalLibs/SDL2-2.0.3/include/SDL_rwops.h"
+	"../ExternalLibs/SDL2-2.0.3/include/SDL_audio.h"
+	"../ExternalLibs/SDL2-2.0.3/include/SDL_endian.h"
+	"../ExternalLibs/SDL2-2.0.3/include/SDL_version.h"
+	"../ExternalLibs/SDL2-2.0.3/include/begin_code.h"
+	"ExternalLibs/SDL2-2.0.3/include/SDL_stdinc.h"
+	"ExternalLibs/SDL2-2.0.3/include/SDL_rwops.h"
+	"ExternalLibs/SDL2-2.0.3/include/SDL_audio.h"
+	"ExternalLibs/SDL2-2.0.3/include/SDL_endian.h"
+	"ExternalLibs/SDL2-2.0.3/include/SDL_version.h"
+	"ExternalLibs/SDL2-2.0.3/include/begin_code.h"
+	"../ExternalLibs/SDL2-2.0.3/include/close_code.h"
+	"ExternalLibs/SDL2-2.0.3/include/close_code.h"
+
+1408489228 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_thread.h
+	"../SGF_Config.h"
+	"../exceptions/all.h"
+	"SGF_Util.h"
+	"SGF_Task.h"
+	"SGF_ThreadDefs.h"
+	<windows.h>
+	<stdio.h>
+
+1404468609 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\exceptions\all.h
+	"SGF_Exception.h"
+	"SGF_Error.h"
+	"SGF_LoadException.h"
+	"SGF_ShutdownException.h"
+	"SGF_TokenException.h"
+	"SGF_MenuException.h"
+	"SGF_MugenException.h"
+	"SGF_NetException.h"
+	"SGF_ScriptException.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\exceptions\sgf_exception.h
+	<string>
+	<exception>
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\exceptions\sgf_error.h
+	"../SGF_Config.h"
+	"SGF_Exception.h"
+	<string>
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\exceptions\sgf_loadexception.h
+	<string>
+	"../SGF_Config.h"
+	"SGF_Exception.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\exceptions\sgf_shutdownexception.h
+	<exception>
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\exceptions\sgf_tokenexception.h
+	<string>
+	"../SGF_Config.h"
+	"SGF_Exception.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\exceptions\sgf_menuexception.h
+	<exception>
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\exceptions\sgf_mugenexception.h
+	"SGF_Exception.h"
+	<string>
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\exceptions\sgf_netexception.h
+	"../SGF_Config.h"
+	<string>
+	<exception>
+	"SGF_Exception.h"
+
+1404468609 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\exceptions\sgf_scriptexception.h
+	"SGF_Exception.h"
+	<string>
+	"../SGF_Config.h"
+
+1404468609 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_util.h
+	<stdlib.h>
+	<vector>
+	<list>
+	<string>
+	"../SGF_Config.h"
+	"SGF_Regex.h"
+	"SGF_Path.h"
+	"SGF_Displayable.h"
+
+1408771035 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_regex.h
+	"../SGF_Config.h"
+	<string>
+
+1410106038 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_path.h
+	<string>
+	"../SGF_Config.h"
+	"../exceptions/SGF_FileExceptions.h"
+	"SGF_StringUtils.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\exceptions\sgf_fileexceptions.h
+	<string>
+	"../SGF_Config.h"
+	"SGF_Exception.h"
+
+1404448656 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_displayable.h
+	"../SGF_Config.h"
+
+1404468609 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_task.h
+	"../SGF_Config.h"
+	"../exceptions/all.h"
+	"SGF_Util.h"
+	"SGF_ThreadDefs.h"
+
+1408587886 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_threaddefs.h
+	"../SGF_Config.h"
+	"../exceptions/all.h"
+	"SGF_Util.h"
+	"SGF_Task.h"
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL_thread.h"
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL_mutex.h"
+	<windows.h>
+	<stdio.h>
+	<stdio.h>
+	<malloc.h>
+	<memory.h>
+	<pthread.h>
+	<stdlib.h>
+	<time.h>
+	<errno.h>
+	<windows.h>
+	<stdio.h>
+
+1409500078 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_sndmanager.h
+	"../SGF_Config.h"
+	"SGF_AudioSystem.h"
+	"SGF_MugenSound.h"
+	"../lists/all.h"
+	<stdio.h>
+	<string.h>
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+
+1408543661 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_mugensound.h
+	<string>
+	<map>
+	"SGF_Pointer.h"
+
+1408476638 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_pointer.h
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\lists\all.h
+	"SGF_AirList.h"
+	"SGF_ImageList.h"
+	"SGF_PcxList.h"
+	"SGF_SndList.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\lists\sgf_airlist.h
+	"../SGF_Config.h"
+	"liststructs.h"
+
+1408588070 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\lists\liststructs.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\lists\sgf_imagelist.h
+	"../SGF_Config.h"
+	"liststructs.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\lists\sgf_pcxlist.h
+	"../SGF_Config.h"
+	"../sprite/defs.h"
+
+1408620678 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\sprite\defs.h
+	<fstream>
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<stdio.h>
+	<string.h>
+	"../SGF_Config.h"
+	"../graphics/SGF_Color.h"
+	"../util/SGF_Pointer.h"
+
+1408620761 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\graphics\sgf_color.h
+	<assert.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\lists\sgf_sndlist.h
+	"../SGF_Config.h"
+	"../util/SGF_AudioSystem.h"
+
+1404468609 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_soundmanager.h
+	"../SGF_Config.h"
+	"SGF_AudioSystem.h"
+	"SGF_Pointer.h"
+
+1409500860 d:\projetos\c++\gameengine\pacman\src\game.h
+	"Sounds.h"
+	"BckgrObj.h"
+	"Pacman.h"
+	"Ghost.h"
+	"hScore.h"
+	"Gamecore/ai/SGF_Map.h"
+	"Gamecore/game/SGF_Control.h"
+	"Gamecore/game/SGF_World.h"
+
+1409500092 d:\projetos\c++\gameengine\pacman\src\sounds.h
+	"Gamecore/util/all_sound.h"
+
+1409500230 d:\projetos\c++\gameengine\pacman\src\pacman.h
+	"Gamecore/ai/SGF_Map.h"
+	"Gamecore/objects/SGF_Object.h"
+	"Gamecore/game/SGF_World.h"
+
+1404448649 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\ai\sgf_map.h
+	"../SGF_Config.h"
+	"../gui/SGF_Coordinate.h"
+	"../structures/SGF_DynamicArray.h"
+	<fstream>
+	<sstream>
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\gui\sgf_coordinate.h
+	<vector>
+	"../SGF_Config.h"
+
+1409500180 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\structures\sgf_dynamicarray.h
+	<iostream>
+	<cstdlib>
+	"../SGF_Config.h"
+	"../util/SGF_Pointer.h"
+	"../util/SGF_Debug.h"
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../exceptions/SGF_Error.h"
+
+1407772980 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\game\sgf_world.h
+	<vector>
+	<deque>
+	<map>
+	<string>
+	"../SGF_Config.h"
+	"../exceptions/all.h"
+	"../util/SGF_Pointer.h"
+	"../objects/all.h"
+	"../network/SGF_Network.h"
+
+1407763400 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\objects\all.h
+	"SGF_Element.h"
+	"SGF_Object.h"
+	"SGF_ObjectCollidable.h"
+	"SGF_ObjectMessages.h"
+
+1408937772 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\objects\sgf_element.h
+	"../SGF_Config.h"
+	"../graphics/all.h"
+	"../gui/SGF_Coordinate.h"
+	"all.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\graphics\all.h
+	"SGF_FireEffect.h"
+	"SGF_GradientEffect.h"
+	"SGF_Bitmap.h"
+	"SGF_Color.h"
+	"SGF_TransBitmap.h"
+	"SGF_LitBitmap.h"
+	"SGF_Poligon.h"
+
+1408588038 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\graphics\sgf_fireeffect.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+	"../graphics/SGF_Color.h"
+
+1408588174 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\graphics\sgf_gradienteffect.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+	"../util/SGF_Token.h"
+	"../graphics/SGF_Color.h"
+
+1408587910 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_token.h
+	<string>
+	<vector>
+	<ostream>
+	"../SGF_Config.h"
+	"../util/SGF_Debug.h"
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../exceptions/SGF_TokenException.h"
+
+1409502086 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\graphics\sgf_bitmap.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	<string>
+	<vector>
+	<iostream>
+	"../SGF_Config.h"
+	"../sprite/defs.h"
+	"SGF_Color.h"
+	"../gui/SGF_Coordinate.h"
+	"../gui/SGF_Rectarea.h"
+	"../util/SGF_UtilStructs.h"
+	"../util/SGF_Thread.h"
+
+1408588019 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\gui\sgf_rectarea.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+	"../graphics/SGF_Color.h"
+
+1409500257 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_utilstructs.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	<io.h>
+	<sys/io.h>
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	"../SGF_Config.h"
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\graphics\sgf_transbitmap.h
+	"../SGF_Config.h"
+	"SGF_Bitmap.h"
+	"SGF_Color.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\graphics\sgf_litbitmap.h
+	"../SGF_Config.h"
+	"SGF_Bitmap.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\graphics\sgf_poligon.h
+	"../SGF_Config.h"
+	"SGF_Bitmap.h"
+	"SGF_Color.h"
+
+1408944139 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\objects\sgf_objectcollidable.h
+	<string>
+	<vector>
+	"../SGF_Config.h"
+	"all.h"
+	"../SGF_Global.h"
+	"../util/all.h"
+
+1408588174 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\sgf_global.h
+	"SGF_Config.h"
+	<ostream>
+	<string>
+	"util/SGF_FileSystem.h"
+
+1408497433 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_filesystem.h
+	<exception>
+	<string>
+	<io.h>
+	<sys/io.h>
+	<vector>
+	<list>
+	<iostream>
+	<sstream>
+	"../SGF_Config.h"
+	"SGF_UtilStructs.h"
+	"SGF_Pointer.h"
+	"../util/SGF_Token.h"
+	"../util/SGF_FilesystemBase.h"
+	"../util/SGF_Path.h"
+	"../util/SGF_Thread.h"
+
+1404448656 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_filesystembase.h
+	<string>
+	<list>
+	<vector>
+	"../SGF_Config.h"
+	"../exceptions/SGF_FileExceptions.h"
+	"../util/SGF_UtilStructs.h"
+
+1404468609 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\all.h
+	"all_fonts.h"
+	"all_messages.h"
+	"all_sound.h"
+	"SGF_Token.h"
+	"SGF_TokenReader_xml.h"
+	"SGF_Util.h"
+	"SGF_Xmltools.h"
+	"SGF_Callback.h"
+	"SGF_Debug.h"
+	"SGF_Ebox.h"
+	"SGF_FileSystem.h"
+	"SGF_Pointer.h"
+	"SGF_Regex.h"
+	"SGF_SdlManager.h"
+	"SGF_Loading.h"
+	"SGF_Timedif.h"
+	"SGF_Timer.h"
+	"SGF_ThreadDefs.h"
+	"SGF_Thread.h"
+	"SGF_UtilStructs.h"
+	"SGF_LanguageString.h"
+	"SGF_Utf.h"
+
+1404448656 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\all_fonts.h
+	"SGF_FontInfo.h"
+	"SGF_FileSystem.h"
+
+1404448656 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_fontinfo.h
+	<string>
+	"../SGF_Config.h"
+	"SGF_FileSystem.h"
+	"SGF_FontSystem.h"
+	"../resource/all.h"
+
+1409500297 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_fontsystem.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	<map>
+	<stdio.h>
+	<string.h>
+	"../SGF_Config.h"
+	"../../ExternalLibs/SDL2_ttf-2.0.12/SDL_ttf.h"
+	"SGF_Pointer.h"
+	"../graphics/SGF_Bitmap.h"
+	"SGF_FileSystem.h"
+	"SGF_UtilStructs.h"
+	"../structures/SGF_DynamicArray.h"
+
+1410187792 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\sdl2_ttf-2.0.12\sdl_ttf.h
+	"../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../ExternalLibs/SDL2-2.0.3/include/begin_code.h"
+	"ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"ExternalLibs/SDL2-2.0.3/include/begin_code.h"
+	"../ExternalLibs/SDL2-2.0.3/include/close_code.h"
+	"ExternalLibs/SDL2-2.0.3/include/close_code.h"
+
+1404448654 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\resource\all.h
+	"SGF_Collector.h"
+	"SGF_ResourceManager.h"
+	"SGF_FontRender.h"
+
+1404448654 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\resource\sgf_collector.h
+	"../SGF_Config.h"
+	"all.h"
+	"../graphics/all.h"
+	"../util/SGF_FileSystem.h"
+	<iostream>
+
+1408560127 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\resource\sgf_resourcemanager.h
+	"../SGF_Config.h"
+	<map>
+	<string>
+	<vector>
+	"../util/SGF_FontSystem.h"
+	"../mugen/gc.h"
+	"../util/SGF_Timedif.h"
+	"../util/all_sound.h"
+	"../exceptions/all.h"
+	"../graphics/all.h"
+	"../sprite/all.h"
+	"../util/SGF_Pointer.h"
+	"../gui/all.h"
+
+1407879020 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\gc.h
+	<list>
+	"Ast/all.h"
+
+1408500394 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\all.h
+	"attribute.h"
+	"attribute-simple.h"
+	"attribute-keyword.h"
+	"attribute-array.h"
+	"argument.h"
+	"Configuration.h"
+	"Expression.h"
+	"identifier.h"
+	"Modifier.h"
+	"Section.h"
+	"Value.h"
+	"variable.h"
+	"value-list.h"
+	"number.h"
+	"string.h"
+	"keyword.h"
+	"keyword-array.h"
+	"filename.h"
+	"collectable.h"
+	"walker.h"
+	"range.h"
+	"extra.h"
+	"function.h"
+	"hitdef.h"
+	"key.h"
+	"helper.h"
+	"astManager.h"
+	"operand.h"
+	"Stack.h"
+	"resource.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\attribute.h
+	"walker.h"
+	<map>
+	<string>
+	"ast.h"
+	"exception.h"
+	"../../util/SGF_Debug.h"
+
+1406810553 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\walker.h
+	"../../SGF_Config.h"
+
+1407878901 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\ast.h
+	<map>
+	<string>
+	"../../SGF_Config.h"
+	"../../util/SGF_Token.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\exception.h
+	<exception>
+	"../../exceptions/all.h"
+	"../../SGF_Config.h"
+	<string>
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\attribute-simple.h
+	"attribute.h"
+	"identifier.h"
+	"Value.h"
+	"walker.h"
+	<sstream>
+	"../../util/SGF_Debug.h"
+
+1406336472 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\identifier.h
+	<list>
+	<string>
+	<sstream>
+	<algorithm>
+	<map>
+	"Value.h"
+	"../../util/SGF_Token.h"
+	"../../util/SGF_Util.h"
+
+1406741818 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\value.h
+	<iostream>
+	<map>
+	<vector>
+	"walker.h"
+	"exception.h"
+	"ast.h"
+	"../../util/SGF_Debug.h"
+	"../../util/SGF_Pointer.h"
+
+1407945039 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\attribute-keyword.h
+	"attribute.h"
+	"keyword.h"
+	"Value.h"
+	"walker.h"
+	<sstream>
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\keyword.h
+	"Value.h"
+	<string>
+
+1407945072 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\attribute-array.h
+	"all.h"
+	<sstream>
+	"../../util/SGF_Debug.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\argument.h
+	"Value.h"
+	<string>
+	<sstream>
+
+1407958975 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\configuration.h
+	<list>
+	<stdio.h>
+	"Section.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\section.h
+	<stdio.h>
+	<map>
+	<list>
+	<string>
+	<iostream>
+	<string>
+	<stdlib.h>
+	"attribute.h"
+	"attribute-simple.h"
+	"Value.h"
+	"exception.h"
+	"ast.h"
+	"../../util/SGF_Debug.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\expression.h
+	"Value.h"
+	"Stack.h"
+
+1406393471 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\stack.h
+	"../../util/SGF_Debug.h"
+	<stdio.h>
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<iostream>
+	<sstream>
+	<streambuf>
+	<fstream>
+	<stdlib.h>
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\modifier.h
+
+1404448651 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\variable.h
+	<stdio.h>
+
+1406162112 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\value-list.h
+	"Value.h"
+	<list>
+	<string>
+	<sstream>
+	"../../util/SGF_Debug.h"
+	"../../exceptions/all.h"
+
+1406688579 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\number.h
+	"Value.h"
+	<string>
+	<sstream>
+	<math.h>
+
+1406688627 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\string.h
+	"Value.h"
+	"../../util/SGF_Debug.h"
+	<string>
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\keyword-array.h
+	"attribute.h"
+	"keyword.h"
+	"identifier.h"
+	"exception.h"
+	"Value.h"
+	"walker.h"
+	<sstream>
+	"../../util/SGF_Debug.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\filename.h
+	"Value.h"
+	<string>
+	"../../util/SGF_Util.h"
+
+1404468609 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\collectable.h
+	<list>
+	<iostream>
+	"all.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\range.h
+	"Value.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\extra.h
+	<list>
+	<string>
+	<algorithm>
+	<string.h>
+	"Section.h"
+	"exception.h"
+	"../../util/SGF_Debug.h"
+	"../../util/tokenreader.h"
+
+1404954116 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\tokenreader.h
+	<fstream>
+	<string>
+	<vector>
+	"../SGF_Config.h"
+	"../exceptions/SGF_TokenException.h"
+	"SGF_FileSystem.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\function.h
+	"Value.h"
+	"value-list.h"
+
+1405743670 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\hitdef.h
+	"Value.h"
+	<string>
+	<sstream>
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\key.h
+	"ast.h"
+	"walker.h"
+	<map>
+	<vector>
+	"../../util/SGF_Debug.h"
+
+1406526623 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\helper.h
+	<list>
+	<string>
+	<sstream>
+	<algorithm>
+	<map>
+	"Value.h"
+	"../../util/SGF_Util.h"
+	"../../util/SGF_Debug.h"
+
+1408560197 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\astmanager.h
+	"all.h"
+	"../gc.h"
+	"../../resource/SGF_ResourceManager.h"
+	<vector>
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\operand.h
+	"Value.h"
+	<string>
+	<sstream>
+	<math.h>
+
+1404448651 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\mugen\ast\resource.h
+	"Value.h"
+	<string>
+	<sstream>
+	<math.h>
+	"../../util/SGF_Pointer.h"
+	"../../util/SGF_Token.h"
+
+1404448656 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_timedif.h
+	<time.h>
+	<string>
+	"../SGF_Config.h"
+
+1404448654 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\sprite\all.h
+	"SGF_SffManager.h"
+	"SGF_Efects.h"
+	"SGF_SffSprMan.h"
+	"SGF_MugenSprite.h"
+	"SGF_RleSprite.h"
+
+1408134242 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\sprite\sgf_sffmanager.h
+	<string>
+	<fstream>
+	<iostream>
+	"defs.h"
+	"../SGF_Config.h"
+
+1404448654 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\sprite\sgf_efects.h
+	<string>
+	<map>
+	<vector>
+	<list>
+	"../SGF_Config.h"
+	"../graphics/all.h"
+	"exception.h"
+	"../input/all.h"
+	"../util/SGF_Point.h"
+	"../util/SGF_FileSystem.h"
+	"../sprite/defs.h"
+	"mugenutil.h"
+
+1408588174 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\input\all.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"SGF_StructsInput.h"
+	"SGF_Keyboard.h"
+	"SGF_Joystick.h"
+	"SGF_Events.h"
+	"SGF_Mouse.h"
+	"SGF_InputManager.h"
+	"SGF_InputMap.h"
+	"SGF_FrameControl.h"
+	"SGF_ButtonMapping.h"
+	"SGF_TextInput.h"
+
+1408588098 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\input\sgf_structsinput.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+
+1408588174 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\input\sgf_keyboard.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	<map>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"../SGF_Config.h"
+	"../util/SGF_Util.h"
+	"SGF_StructsInput.h"
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL_keycode.h"
+
+1408588011 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\input\sgf_joystick.h
+	<vector>
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+	"SGF_StructsInput.h"
+	"../util/SGF_Thread.h"
+
+1404468609 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\input\sgf_events.h
+	<vector>
+	"../SGF_Config.h"
+	"SGF_Keyboard.h"
+	"SGF_Mouse.h"
+	"SGF_Joystick.h"
+	"../util/SGF_Pointer.h"
+	"SGF_TextInput.h"
+
+1409500398 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\input\sgf_mouse.h
+	<map>
+	<vector>
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+	"SGF_StructsInput.h"
+	"../util/SGF_Thread.h"
+
+1409969497 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\input\sgf_textinput.h
+	<sstream>
+	<string>
+	<map>
+	"../SGF_Config.h"
+	"SGF_InputMap.h"
+	"../util/SGF_Callback.h"
+	"../util/SGF_Pointer.h"
+	"SGF_Keyboard.h"
+	"SGF_Joystick.h"
+
+1406902435 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\input\sgf_inputmap.h
+	<map>
+	<vector>
+	<iostream>
+	"SGF_Keyboard.h"
+	"SGF_Joystick.h"
+	"SGF_Mouse.h"
+	"../util/SGF_Pointer.h"
+
+1409970960 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_callback.h
+	"../SGF_Config.h"
+	"SGF_Debug.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\input\sgf_inputmanager.h
+	<vector>
+	<stdlib.h>
+	"../SGF_Config.h"
+	"SGF_Input.h"
+	"SGF_Events.h"
+	"SGF_Mouse.h"
+	"SGF_Joystick.h"
+	"SGF_InputMap.h"
+	"SGF_TextInput.h"
+	"SGF_InputSource.h"
+	"../configuration/SGF_Configuration.h"
+	"../util/SGF_Debug.h"
+
+1409500740 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\input\sgf_input.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\input\sgf_inputsource.h
+
+1410184194 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\configuration\sgf_configuration.h
+	<map>
+	<sstream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<map>
+	"../SGF_Config.h"
+	"../util/SGF_Callback.h"
+	"../input/SGF_Joystick.h"
+	"../input/SGF_Mouse.h"
+	"../input/SGF_Keyboard.h"
+	"../input/SGF_Input.h"
+	"../util/SGF_FontInfo.h"
+	"../objects/SGF_Object.h"
+	"../util/SGF_Path.h"
+	"SGF_SysVars.h"
+	"../structures/SGF_List.h"
+	"../structures/SGF_HashTableFast.h"
+	"../util/SGF_Pointer.h"
+
+1410145624 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\configuration\sgf_sysvars.h
+	"../SGF_Config.h"
+	"SGF_CmdVars.h"
+	"../util/SGF_Callback.h"
+	"../util/SGF_Token.h"
+	"../util/SGF_Pointer.h"
+	<typeinfo>
+
+1409967645 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\configuration\sgf_cmdvars.h
+	"../SGF_Config.h"
+
+1404468609 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\structures\sgf_list.h
+	"../SGF_Config.h"
+
+1404448655 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\structures\sgf_hashtablefast.h
+	"../util/SGF_HashUtils.h"
+	"../SGF_Config.h"
+	"../math/SGF_Matriz.h"
+
+1404448656 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_hashutils.h
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\math\sgf_matriz.h
+	"../SGF_Config.h"
+	"SGF_Vector.h"
+	"SGF_Simd.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\math\sgf_vector.h
+	"../SGF_Config.h"
+	"SGF_Math.h"
+	"../util/SGF_Heap.h"
+	"SGF_Random.h"
+	"SGF_Simd.h"
+
+1408825538 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\math\sgf_math.h
+	"../SGF_Config.h"
+	<math.h>
+	<ppc_intrinsics.h>
+	<float.h>
+
+1409500668 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_heap.h
+	"../SGF_Config.h"
+	"SGF_Util.h"
+	"../math/SGF_Simd.h"
+	<sys/mman.h>
+	<Windows.h>
+	"../structures/BTree.h"
+
+1408914922 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\math\sgf_simd.h
+	"../SGF_Config.h"
+	"../util/SGF_UtilStructs.h"
+
+1409500684 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\structures\btree.h
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\math\sgf_random.h
+	"../SGF_Config.h"
+	"SGF_Math.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\input\sgf_framecontrol.h
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\input\sgf_buttonmapping.h
+	"SGF_Joystick.h"
+	<vector>
+
+1409500358 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\sprite\sgf_sffsprman.h
+	<stdio.h>
+	"../SGF_Global.h"
+	"../util/AirManager.h"
+	"../graphics/all.h"
+	<string.h>
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../lists/all.h"
+	"SGF_SffManager.h"
+	"defs.h"
+	"SGF_MugenSprite.h"
+	"../SGF_Config.h"
+	"../graphics/SGF_Color.h"
+
+1404448656 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\airmanager.h
+	"../lists/all.h"
+	"../lists/liststructs.h"
+	"../sprite/defs.h"
+
+1408120811 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\sprite\sgf_mugensprite.h
+	<string>
+	<fstream>
+	<iostream>
+	"../SGF_Config.h"
+	"SGF_Efects.h"
+	"SGF_SffSprMan.h"
+
+1409500388 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\sprite\sgf_rlesprite.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\gui\all.h
+	"SGF_FadetoolGui.h"
+	"SGF_Box.h"
+	"SGF_ContextBox.h"
+	"SGF_Coordinate.h"
+	"SGF_GuiAnimation.h"
+	"SGF_PopupBox.h"
+	"SGF_Rectarea.h"
+	"SGF_ScrollList.h"
+	"SGF_TabbedBox.h"
+	"SGF_Widget.h"
+	"SGF_LineEdit.h"
+	"SGF_SelectList.h"
+	"SGF_BoundBox.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\gui\sgf_fadetoolgui.h
+	"../SGF_Config.h"
+	"../util/SGF_Token.h"
+	"../graphics/SGF_Color.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\gui\sgf_box.h
+	<string>
+	"../SGF_Config.h"
+	"SGF_Widget.h"
+
+1408588174 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\gui\sgf_widget.h
+	"../SGF_Config.h"
+	"SGF_Rectarea.h"
+	"SGF_Coordinate.h"
+	"../graphics/all.h"
+	"../exceptions/all.h"
+	"../SGF_Global.h"
+	"../util/SGF_Token.h"
+	"../util/SGF_Pointer.h"
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\gui\sgf_contextbox.h
+	<string>
+	<vector>
+	"../SGF_Config.h"
+	"SGF_Widget.h"
+	"SGF_PopupBox.h"
+	"SGF_ScrollList.h"
+	"../util/SGF_LanguageString.h"
+	"../graphics/all.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\gui\sgf_popupbox.h
+	<string>
+	<vector>
+	"../SGF_Config.h"
+	"SGF_Widget.h"
+	"SGF_Box.h"
+	"../graphics/all.h"
+	"SGF_Coordinate.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\gui\sgf_scrolllist.h
+	<string>
+	<vector>
+	"../SGF_Config.h"
+	"SGF_Coordinate.h"
+	"../util/SGF_Pointer.h"
+	"../util/SGF_Util.h"
+
+1404448656 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_languagestring.h
+	<string>
+	<map>
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\gui\sgf_guianimation.h
+	<vector>
+	<map>
+	<string>
+	"SGF_Coordinate.h"
+	"../util/SGF_Pointer.h"
+	"../graphics/SGF_GradientEffect.h"
+	"../util/SGF_FileSystem.h"
+	"../SGF_Config.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\gui\sgf_tabbedbox.h
+	<string>
+	<vector>
+	"../SGF_Config.h"
+	"SGF_Widget.h"
+	"../util/SGF_Token.h"
+	"../graphics/all.h"
+	"SGF_ContextBox.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\gui\sgf_lineedit.h
+	"../SGF_Config.h"
+	<iostream>
+	<vector>
+	"SGF_Widget.h"
+	"SGF_GuiTimer.h"
+	"../input/SGF_TextInput.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\gui\sgf_guitimer.h
+	"../SGF_Config.h"
+	<windows.h>
+	<time.h>
+	<sys/time.h>
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\gui\sgf_selectlist.h
+	<string>
+	<vector>
+	"SGF_Coordinate.h"
+	"../util/SGF_Pointer.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\gui\sgf_boundbox.h
+	"../math/SGF_Vector.h"
+	"../math/SGF_Matriz.h"
+	"../math/SGF_Plane.h"
+	"../math/SGF_Rotation.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\math\sgf_plane.h
+	"../SGF_Config.h"
+	"SGF_Vector.h"
+	"SGF_Matriz.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\math\sgf_rotation.h
+	"../SGF_Config.h"
+	"SGF_Vector.h"
+	"SGF_Matriz.h"
+	"SGF_Angles.h"
+	"../util/SGF_StringUtils.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\math\sgf_angles.h
+	"../SGF_Config.h"
+	"SGF_Vector.h"
+
+1410179991 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_stringutils.h
+	"SGF_ArgsCmdLine.h"
+	<cstring>
+	<stdio.h>
+
+1404448656 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_argscmdline.h
+	"../SGF_Config.h"
+
+1404448654 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\resource\sgf_fontrender.h
+	<string>
+	<vector>
+	"../util/SGF_FontSystem.h"
+	"../util/SGF_FileSystem.h"
+
+1404448656 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\all_messages.h
+	"SGF_MessageQueue.h"
+	"SGF_Messages.h"
+
+1404954415 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_messagequeue.h
+	<string>
+	<queue>
+	"../SGF_Config.h"
+	"SGF_Thread.h"
+
+1404448656 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_messages.h
+	"../SGF_Config.h"
+	"../graphics/all.h"
+	"../util/SGF_FontSystem.h"
+
+1404448656 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_tokenreader_xml.h
+	<fstream>
+	<string>
+	<vector>
+	<stdio.h>
+	<malloc.h>
+	"../SGF_Config.h"
+	"../../ExternalLibs/expat-2.1.0/lib/expat.h"
+	"SGF_Token.h"
+	"../exceptions/all.h"
+
+1404448642 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\expat-2.1.0\lib\expat.h
+	<stdlib.h>
+	"expat_external.h"
+
+1404448642 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\expat-2.1.0\lib\expat_external.h
+
+1404448656 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_xmltools.h
+	<stdio.h>
+	<malloc.h>
+	"../../ExternalLibs/expat-2.1.0/lib/expat.h"
+	"../SGF_Config.h"
+
+1404448656 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_ebox.h
+	"../SGF_Config.h"
+	"../graphics/all.h"
+	<vector>
+
+1409500704 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_sdlmanager.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"../SGF_Config.h"
+	"../SGF_Global.h"
+	"SGF_UtilStructs.h"
+	"all_sound.h"
+	"../../ExternalLibs/SDL2_mixer-2.0.0/SDL_mixer.h"
+	"../external/SDL_framerate.h"
+	"SGF_FontSystem.h"
+	"../external/glSDL.h"
+	"../external/fastevents.h"
+	"../input/SGF_InputManager.h"
+
+1409500714 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\external\sdl_framerate.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+
+1409500721 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\external\glsdl.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+	"begin_code.h"
+	"close_code.h"
+	"SDL_image.h"
+
+1409500727 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\external\fastevents.h
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+
+1404448656 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_loading.h
+	"../SGF_Config.h"
+	"SGF_Messages.h"
+	"SGF_MessageQueue.h"
+	"../level/SGF_LevelUtils.h"
+	"SGF_Thread.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\level\sgf_levelutils.h
+	<string>
+	<vector>
+	"../util/SGF_Token.h"
+	"../SGF_Config.h"
+
+1404468609 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_timer.h
+	<iostream>
+	<vector>
+	"../SGF_Config.h"
+	"SGF_Thread.h"
+
+1409500778 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\util\sgf_utf.h
+	<string>
+	<stdint.h>
+	"../../ExternalLibs/SDL2-2.0.3/include/SDL.h"
+
+1404448653 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\objects\sgf_objectmessages.h
+	"../SGF_Config.h"
+
+1404448651 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\network\sgf_network.h
+	<stdint.h>
+	<string>
+	<vector>
+	<exception>
+	"../SGF_Config.h"
+	"../exceptions/SGF_NetException.h"
+	"../../ExternalLibs/hawknl/hawknl/nl.h"
+
+1404448642 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\hawknl\hawknl\nl.h
+	<string.h>
+	"hawklib.h"
+	<stdlib.h>
+
+1404448642 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\externallibs\hawknl\hawknl\hawklib.h
+
+1409500821 d:\projetos\c++\gameengine\pacman\src\ghost.h
+	"Gamecore/ai/all.h"
+
+1404448649 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\ai\all.h
+	"SGF_AstarHeap.h"
+	"SGF_AstarLib.h"
+	"SGF_Behavior.h"
+	"SGF_Map.h"
+	"SGF_PathFinder.h"
+
+1404448649 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\ai\sgf_astarheap.h
+	"../SGF_Config.h"
+	"SGF_AstarLib.h"
+
+1404448649 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\ai\sgf_astarlib.h
+	"../SGF_Config.h"
+
+1407771065 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\ai\sgf_behavior.h
+	"../SGF_Config.h"
+	"../objects/SGF_Object.h"
+	"../game/SGF_Command.h"
+
+1406988389 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\game\sgf_command.h
+	<string>
+	"../input/all.h"
+	"../mugen/Ast/all.h"
+
+1404448649 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\ai\sgf_pathfinder.h
+	"../SGF_Config.h"
+	"SGF_AstarLib.h"
+	"../gui/SGF_Coordinate.h"
+	"SGF_Map.h"
+	"SGF_AstarHeap.h"
+
+1388850626 d:\projetos\c++\gameengine\pacman\src\hscore.h
+	<string>
+	<fstream>
+	<iomanip>
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\game\sgf_control.h
+	<time.h>
+	"../SGF_Config.h"
+	"../gui/SGF_Box.h"
+	"../graphics/SGF_Bitmap.h"
+	"../resource/SGF_Collector.h"
+	"../game/SGF_Mod.h"
+	"../util/SGF_SdlManager.h"
+	"../configuration/SGF_Configuration.h"
+
+1404448650 d:\projetos\c++\gameengine\pacman\sgf\2.1\headers\gamecore\game\sgf_mod.h
+	<string>
+	<vector>
+	"../SGF_Config.h"
+	"../util/SGF_Path.h"
+	"../exceptions/SGF_LoadException.h"
+
+1409665495 d:\projetos\c++\gameengine\pacman\src\settings.h
+	<vector>
+	"Gamecore/configuration/SGF_Configuration.h"
+
+1409332540 source:d:\projetos\c++\gameengine\pacman\src\game.cpp
+	"Game.h"
+	"Settings.h"
+	"PacGlobal.h"
+
+1388850626 d:\projetos\c++\gameengine\pacman\src\pacglobal.h
+
+1408970347 source:d:\projetos\c++\gameengine\pacman\src\ghost.cpp
+	"Ghost.h"
+	"Settings.h"
+	"Game.h"
+	"PacGlobal.h"
+
+1388850626 source:d:\projetos\c++\gameengine\pacman\src\hscore.cpp
+	"hScore.h"
+
+1409665495 source:d:\projetos\c++\gameengine\pacman\src\main.cpp
+	<io.h>
+	<string>
+	<vector>
+	<queue>
+	<list>
+	<iostream>
+	"game.h"
+	"PacGlobal.h"
+	"Settings.h"
+
+1409332521 source:d:\projetos\c++\gameengine\pacman\src\pacman.cpp
+	"Pacman.h"
+	"Game.h"
+	"PacGlobal.h"
+
+1410117282 source:d:\projetos\c++\gameengine\pacman\src\settings.cpp
+	"settings.h"
+	"Gamecore/util/SGF_Debug.h"
+	"PacGlobal.h"
+
+1388850626 source:d:\projetos\c++\gameengine\pacman\src\sounds.cpp
+	"Sounds.h"
+

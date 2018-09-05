@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+<debug-configuration>
+<type>
+file
+</type>
+<filename>
+debug.txt
+</filename>
+<bitmap>
+ 1
+
+</bitmap>
+<font>
+ 1
+
+</font>
+<gui>
+ 1
+
+</gui>
+<input>
+ 1
+
+</input>
+<compilers>
+ 1
+
+</compilers>
+<configuration>
+ 1
+
+</configuration>
+<parsers>
+ 1
+
+</parsers>
+<lists>
+ 1
+
+</lists>
+<menu>
+ 1
+
+</menu>
+<network>
+ 1
+
+</network>
+<resources>
+ 1
+
+</resources>
+<objects>
+ 1
+
+</objects>
+<exceptions>
+ 1
+
+</exceptions>
+<environment>
+ 1
+
+</environment>
+<filesystem>
+ 1
+
+</filesystem>
+<sound>
+ 1
+
+</sound>
+<console>
+ 1
+
+</console>
+<gameEngine>
+ 1
+
+</gameEngine>
+<sdlmanager>
+ 1
+
+</sdlmanager>
+<xml>
+ 1
+
+</xml>
+<gameObject>
+ 1
+
+</gameObject>
+<gameStage>
+ 1
+
+</gameStage>
+<gameStateMachine>
+ 1
+
+</gameStateMachine>
+<gameStory>
+ 1
+
+</gameStory>
+<gameConfiguration>
+ 1
+
+</gameConfiguration>
+<error>
+ 1
+
+</error>
+</debug-configuration>
+</configuration>

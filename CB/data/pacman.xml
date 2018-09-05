@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with EditiX at Tue Dec 20 10:56:55 BRST 2011 -->
+<pacman_config>
+
+<level_path> 0
+</level_path>
+<level_path> 1
+</level_path>
+
+<level_path> 2
+</level_path>
+
+<level_path> 3
+</level_path>
+
+<skins_path>minimal
+</skins_path>
+
+<skins_path>original
+</skins_path>
+
+
+<level_path>tmp
+</level_path>
+</pacman_config>
