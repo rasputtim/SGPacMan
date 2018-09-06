@@ -382,7 +382,9 @@ void Game::run(Game & thisGame){
         virtual double ticks(double system){
           //  return Util::gameTicks(system, 0.1); //0.1 = gamespeed
 	int TheSpeed = 60;  //uma velocidade de gamespeed = 0.1  e ticks por segund = 60
-    double valor = system * 0.1 * TheSpeed / CGlobalConfiguration::gameFPS.getInteger();
+	//double valor = system * 0.1 * TheSpeed / CGlobalConfiguration::gameFPS.getInteger();
+
+    double valor = system * 0.1 * TheSpeed / 60;
 	return valor;
         }
     };
