@@ -72,7 +72,7 @@
     <Link>
       <AdditionalOptions> /verbose:lib /IGNORE:4006 %(AdditionalOptions)</AdditionalOptions>
       <AdditionalDependencies>opengl32.lib;glu32.lib;libexpat.lib;Msimg32.lib;winmm.lib;version.lib;imm32.lib;SDL2.lib;SDL2main.lib;SMF.lib;SGF.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <AdditionalLibraryDirectories>$(ProjectDir)\..\sgf\3.0\lib\external\win\x86;$(ProjectDir)\..\sgf\3.0\lib\win\Debug;$(ProjectDir)\..\sgf\3.0\lib\external\win;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(ProjectDir)\..\sgf\3.0\lib\external\win\x64;$(ProjectDir)\..\sgf\3.0\lib\win\Debug;$(ProjectDir)\..\sgf\3.0\lib\external\win;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <IgnoreSpecificDefaultLibraries>msvcrt.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Windows</SubSystem>
